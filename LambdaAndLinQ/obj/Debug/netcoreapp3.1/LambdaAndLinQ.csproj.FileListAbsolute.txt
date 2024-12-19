@@ -1,0 +1,14 @@
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\bin\Debug\netcoreapp3.1\LambdaAndLinQ.exe
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\bin\Debug\netcoreapp3.1\LambdaAndLinQ.deps.json
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\bin\Debug\netcoreapp3.1\LambdaAndLinQ.runtimeconfig.json
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\bin\Debug\netcoreapp3.1\LambdaAndLinQ.runtimeconfig.dev.json
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\bin\Debug\netcoreapp3.1\LambdaAndLinQ.dll
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\bin\Debug\netcoreapp3.1\LambdaAndLinQ.pdb
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\obj\Debug\netcoreapp3.1\LambdaAndLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\obj\Debug\netcoreapp3.1\LambdaAndLinQ.AssemblyInfoInputs.cache
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\obj\Debug\netcoreapp3.1\LambdaAndLinQ.AssemblyInfo.cs
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\obj\Debug\netcoreapp3.1\LambdaAndLinQ.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\obj\Debug\netcoreapp3.1\LambdaAndLinQ.sourcelink.json
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\obj\Debug\netcoreapp3.1\LambdaAndLinQ.dll
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\obj\Debug\netcoreapp3.1\LambdaAndLinQ.pdb
+C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\obj\Debug\netcoreapp3.1\LambdaAndLinQ.genruntimeconfig.cache
