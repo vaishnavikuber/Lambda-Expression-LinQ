@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vaish\\source\\repos\\LambdaAndLinQ\\LambdaAndLinQ\\LambdaAndLinQ.csproj": {}
+    "C:\\Users\\vaish\\Lambda-Expression-LinQ\\LambdaAndLinQ\\LambdaAndLinQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vaish\\source\\repos\\LambdaAndLinQ\\LambdaAndLinQ\\LambdaAndLinQ.csproj": {
+    "C:\\Users\\vaish\\Lambda-Expression-LinQ\\LambdaAndLinQ\\LambdaAndLinQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vaish\\source\\repos\\LambdaAndLinQ\\LambdaAndLinQ\\LambdaAndLinQ.csproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Lambda-Expression-LinQ\\LambdaAndLinQ\\LambdaAndLinQ.csproj",
         "projectName": "LambdaAndLinQ",
-        "projectPath": "C:\\Users\\vaish\\source\\repos\\LambdaAndLinQ\\LambdaAndLinQ\\LambdaAndLinQ.csproj",
+        "projectPath": "C:\\Users\\vaish\\Lambda-Expression-LinQ\\LambdaAndLinQ\\LambdaAndLinQ.csproj",
         "packagesPath": "C:\\Users\\vaish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vaish\\source\\repos\\LambdaAndLinQ\\LambdaAndLinQ\\obj\\",
+        "outputPath": "C:\\Users\\vaish\\Lambda-Expression-LinQ\\LambdaAndLinQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

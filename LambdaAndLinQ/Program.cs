@@ -41,7 +41,7 @@ namespace LambdaAndLinQ
 
             //AverageExample.Method();
 
-            MaxAndMinExample.Method();
+            //MaxAndMinExample.Method();
 
 
 

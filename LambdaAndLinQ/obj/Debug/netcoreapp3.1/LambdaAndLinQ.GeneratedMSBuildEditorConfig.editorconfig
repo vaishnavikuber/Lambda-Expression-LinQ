@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = LambdaAndLinQ
-build_property.ProjectDir = C:\Users\vaish\source\repos\LambdaAndLinQ\LambdaAndLinQ\
+build_property.ProjectDir = C:\Users\vaish\Lambda-Expression-LinQ\LambdaAndLinQ\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
