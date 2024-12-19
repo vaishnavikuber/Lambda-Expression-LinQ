@@ -16,7 +16,7 @@ namespace LambdaAndLinQ
                 {
                     Console.WriteLine(array[i]);
                 }
-                Console.WriteLine(array[-1]);
+                Console.WriteLine(array[6]);
             }
            
             catch(IndexOutOfRangeException e)
@@ -37,6 +37,7 @@ namespace LambdaAndLinQ
                 catch (Exception e)
                 {
                     Console.WriteLine("Exception  :  " + e.Message);
+                    Console.WriteLine(e.StackTrace);
                 }
                 Console.WriteLine(array[2]);
             }
