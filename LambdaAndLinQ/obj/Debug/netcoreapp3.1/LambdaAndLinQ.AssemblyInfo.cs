@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LambdaAndLinQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d6e441fe1dd4d82a4ee8ff1e7510e71bb24ff8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4624fdf291dcb98896abaebdff2117e64f5a0c0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LambdaAndLinQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LambdaAndLinQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

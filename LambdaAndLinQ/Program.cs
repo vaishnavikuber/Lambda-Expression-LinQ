@@ -43,6 +43,14 @@ namespace LambdaAndLinQ
 
             //MaxAndMinExample.Method();
 
+            ExceptionPractice.Method();
+
+
+
+
+
+
+
 
 
 
