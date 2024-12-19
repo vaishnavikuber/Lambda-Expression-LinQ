@@ -40,6 +40,24 @@ namespace LambdaAndLinQ
             {
                 Console.WriteLine(x);
             }
+
+            Console.WriteLine("------------------------");
+            List<string> list = new List<string>() { "apple" , "banana" ,"watermelon" ,"mango" ,"orange" };
+            var reverse5 = list.Reverse<string>();
+            foreach(var x in reverse5)
+            {
+                Console.WriteLine(x);
+            }
+
+            Console.WriteLine("------------------------");
+
+            var reverse6 = (from x in Employee.GetAllEmployee() select x).Reverse();
+            foreach (var x in reverse6)
+            {
+                Console.WriteLine(x.EmployeeName);
+            }
+
+            Console.WriteLine("------------------------");
         }
 
     }

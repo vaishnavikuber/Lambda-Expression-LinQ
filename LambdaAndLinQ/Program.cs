@@ -37,15 +37,15 @@ namespace LambdaAndLinQ
 
             //OrderByExample.Order();
 
-            //ReverseExample.Method();
+            ReverseExample.Method();
 
             //AverageExample.Method();
 
             //MaxAndMinExample.Method();
 
-            ExceptionPractice.Method();
+            //ExceptionPractice.Method();
 
-            VoterId.CheckVoter();
+            //VoterId.CheckVoter();
 
 
 
