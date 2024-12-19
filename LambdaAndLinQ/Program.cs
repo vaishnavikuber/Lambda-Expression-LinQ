@@ -43,9 +43,9 @@ namespace LambdaAndLinQ
 
             //MaxAndMinExample.Method();
 
-            ExceptionPractice.Method();
+            //ExceptionPractice.Method();
 
-
+            VoterId.CheckVoter();
 
 
 

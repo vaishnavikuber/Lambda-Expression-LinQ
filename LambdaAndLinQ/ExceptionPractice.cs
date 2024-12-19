@@ -25,7 +25,7 @@ namespace LambdaAndLinQ
             }
             catch (Exception e)
             {
-                Console.WriteLine("Exception!!!" + e.Message);
+                Console.WriteLine("Exception!!!  " + e.Message);
             }
             finally
             {
@@ -36,7 +36,7 @@ namespace LambdaAndLinQ
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine("Exception" + e.Message);
+                    Console.WriteLine("Exception  :  " + e.Message);
                 }
                 Console.WriteLine(array[2]);
             }
